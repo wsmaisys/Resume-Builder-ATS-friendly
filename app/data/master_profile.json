@@ -1,0 +1,2198 @@
+{
+  "name": "Wasim Ansari",
+  "title": "AI/ML Engineer | Gen AI Solution Architect | Chatbot Specialist",
+  "contact": {
+    "email": "wsmaisys@gmail.com",
+    "phone": "7253923415",
+    "location": "Dehradun, India",
+    "nationality": "Indian",
+    "portfolio": "https://wsmaisys.github.io/waseemmansari.github.io/",
+    "github": "https://github.com/wsmaisys",
+    "linkedin": "LinkedIn profile listed in CV",
+    "kaggle": "Kaggle profile listed in CV",
+    "publications": "Publications listed in CV"
+  },
+  "summary": "AI/ML Engineer, Gen AI Solution Architect, and Chatbot Specialist helping organisations build scalable GenAI and ML systems that automate operational workflows and support smarter decisions. IIT Madras-trained with eight years of cross-domain experience across production-ready machine learning, RAG chatbots, multi-agent systems, AI services, observability, compliance-aware delivery, legal operations, sales, export logistics, and entrepreneurship.",
+  "skills": [
+    "GenAI engineering",
+    "Agentic AI",
+    "Multi-agent systems",
+    "RAG",
+    "LLM orchestration",
+    "Chatbots",
+    "LangGraph",
+    "LangChain",
+    "LangSmith",
+    "CrewAI",
+    "Agno",
+    "MCP clients",
+    "MCP servers",
+    "Mistral",
+    "FastAPI",
+    "Python",
+    "Asyncio",
+    "JSON-RPC 2.0",
+    "FAISS",
+    "ChromaDB",
+    "Neo4j",
+    "MLOps",
+    "Machine Learning",
+    "Deep Learning",
+    "Supervised learning",
+    "Unsupervised learning",
+    "Neural Networks",
+    "Computer Vision",
+    "Transformer finetuning",
+    "Scikit-learn",
+    "XGBoost",
+    "Keras",
+    "PyTorch",
+    "PyTorch Lightning",
+    "Hugging Face Transformers",
+    "Hugging Face Diffusers",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Seaborn",
+    "Power BI",
+    "Metabase",
+    "OpenRefine",
+    "Hypothesis testing",
+    "FastAPI model serving",
+    "Celery",
+    "Redis",
+    "Docker",
+    "CI/CD",
+    "Git",
+    "GitHub Actions",
+    "Google Cloud Run",
+    "Google Cloud SQL",
+    "Google Cloud Storage",
+    "Google Cloud Build",
+    "Google Cloud SDK",
+    "Azure Container Apps",
+    "Azure App Service",
+    "Vercel",
+    "GitHub Pages",
+    "Hugging Face Spaces",
+    "Grafana",
+    "WandB",
+    "TrackIO",
+    "Model performance tracking",
+    "Drift detection",
+    "Automated retraining",
+    "Guardrailing",
+    "Prompt experimentation",
+    "n8n workflow automation",
+    "BeautifulSoup",
+    "GitHub API",
+    "Document generation",
+    "PDF scraping",
+    "Document summarization",
+    "Legal AI",
+    "Business automation",
+    "Retail analytics",
+    "Supply chain optimization",
+    "Real estate valuation",
+    "Legal domain analysis",
+    "Compliance QA"
+  ],
+  "experience": [
+    {
+      "role": "AI/ML Engineering Intern",
+      "organization": "TechPranee (SpearHub)",
+      "location": "Hyderabad, India",
+      "period": "12/2025 - Present",
+      "highlights": [
+        "Designed and deployed production-ready AI solutions integrating advanced ML and GenAI capabilities into enterprise systems.",
+        "Collaborated cross-functionally with engineering teams to understand problem statements, plan execution, and deliver high-quality outcomes.",
+        "Led rapid experimentation cycles, iterative analysis, and presented actionable recommendations to project leaders.",
+        "Built and deployed a time-series forecasting model integrated into ERP systems.",
+        "Built a hybrid RAG chatbot using Neo4j graph and vector search for HR automation.",
+        "Worked on a multi-agent system for intelligent document review.",
+        "Optimized deployed systems for high load, concurrent usage, reliability, stability, and scalability.",
+        "Owned debugging, testing, and continuous improvement for deployed AI systems."
+      ]
+    },
+    {
+      "role": "AI/ML Engineer & Gen AI Architect",
+      "organization": "WSMAISYS (Independent Freelancer)",
+      "location": "Dehradun, India",
+      "period": "09/2024 - 12/2025",
+      "highlights": [
+        "Pursued the IIT Madras Diploma in Data Science with focus on deep learning, Generative AI, and cloud-based machine learning systems.",
+        "Delivered freelance AI/ML solutions for multiple clients including predictive modeling, AI-powered tools, n8n workflow automation, and operational efficiency improvements.",
+        "Built a diverse portfolio of real-world AI/ML projects across end-to-end pipelines."
+      ]
+    },
+    {
+      "role": "Retail Sales Manager",
+      "organization": "Booze Blitz - Ahaan Limited",
+      "location": "Kingston Upon Hull, UK",
+      "period": "12/2022 - 09/2023",
+      "highlights": [
+        "Led compliance and strategic sales planning that boosted revenue by 20%.",
+        "Developed practical interest in ML-based pricing, demand forecasting, and retail analytics."
+      ]
+    },
+    {
+      "role": "Import Export Entrepreneur",
+      "organization": "Ahlan Exports",
+      "location": "Dehradun, India",
+      "period": "09/2021 - 11/2022",
+      "highlights": [
+        "Managed international B2B logistics, compliance, and digital marketing funnels.",
+        "Experience translates into AI interest in supply chain optimization."
+      ]
+    },
+    {
+      "role": "Real Estate Consultant",
+      "organization": "FAHZAM Properties",
+      "location": "Dubai, UAE",
+      "period": "02/2015 - 01/2020",
+      "highlights": [
+        "Managed property portfolios and client legal clearances.",
+        "Certified RERA Broker.",
+        "Domain insights inform AI projects in real estate valuation and document automation."
+      ]
+    },
+    {
+      "role": "Legal Associate",
+      "organization": "QuisLex Legal Services",
+      "location": "Hyderabad, India",
+      "period": "09/2013 - 04/2014",
+      "highlights": [
+        "Reviewed legal documentation and case summaries with accuracy and compliance.",
+        "Experience inspired automation ideas in document review and compliance QA."
+      ]
+    },
+    {
+      "role": "Research Associate-Citator",
+      "organization": "Mindcrest India",
+      "location": "Pune, India",
+      "period": "12/2012 - 07/2013",
+      "highlights": [
+        "Classified legal cases with 90%+ accuracy in half the average processing time.",
+        "Domain insights now support AI-based legal summarizers and database management."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AI Travel Planner",
+      "summary": "Multi-agent AI orchestration where three coordinated agents autonomously research tourist destinations, analyze user preferences, and generate personalized end-to-end travel plans.",
+      "skills": [
+        "CrewAI",
+        "LangChain",
+        "Streamlit",
+        "Python",
+        "CI/CD"
+      ],
+      "repo_url": "https://github.com/wsmaisys/multi-agent-travel-planner",
+      "deployed_urls": [
+        "https://multi-agent-travel-planner-crew.streamlit.app"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-12-07T18:44:40Z",
+      "recent_commits": [
+        {
+          "sha": "5e8577d",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:44:31Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/5e8577df112903b7010497d5d9bc00808cbe7be4"
+        },
+        {
+          "sha": "60d600e",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:40:03Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/60d600e7bc429be0a023b638b15e1294c00e7116"
+        },
+        {
+          "sha": "2e7f0b3",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:33:38Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/2e7f0b35d24ec47bd07d6ea6bc66f74ee4f36455"
+        }
+      ]
+    },
+    {
+      "name": "MediFlow - Medical AI Assistant",
+      "summary": "Multi-agent medical assistant chatbot delivering personalized post-discharge care with receptionist patient-history tooling and a clinical agent using Nephrology RAG and search tools.",
+      "skills": [
+        "LangChain",
+        "LangGraph",
+        "LangSmith",
+        "MCP client",
+        "Google Cloud Run",
+        "CI/CD",
+        "HTML",
+        "React.js"
+      ],
+      "repo_url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant",
+      "deployed_urls": [
+        "https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2026-05-17T17:27:14Z",
+      "recent_commits": [
+        {
+          "sha": "00b5943",
+          "message": "Update MediFlow assistant code",
+          "date": "2026-05-17T17:27:10Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/00b594389b9cffd31ed80f9fea23b6b6e7875119"
+        },
+        {
+          "sha": "70af659",
+          "message": "Update 2.0 - Fixed Architecture",
+          "date": "2026-05-17T15:37:35Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/70af65962dcdb7c3e244ef5f35b556358d3f28db"
+        },
+        {
+          "sha": "d6b50e4",
+          "message": "updated nodes and tool messaging",
+          "date": "2025-11-30T07:05:32Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/d6b50e4f12aa2ebccc3976f79f788cf15e17cb3f"
+        }
+      ]
+    },
+    {
+      "name": "Nephrology RAG MCP Server",
+      "summary": "MCP server exposing domain-specific retrieval-augmented generation services as streamable HTTP endpoints for multiple concurrent AI agents.",
+      "skills": [
+        "FAISS",
+        "MCP Server",
+        "Python",
+        "Asyncio",
+        "Google Cloud Run",
+        "Docker",
+        "JSON-RPC 2.0"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool",
+      "deployed_urls": [
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp.json"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2026-05-17T16:02:49Z",
+      "recent_commits": [
+        {
+          "sha": "7cf8386",
+          "message": "chore: add mcp response sample and remove python pin",
+          "date": "2026-05-17T16:02:45Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/7cf83860ec2733b4fe70e4aabc95b20009bf5820"
+        },
+        {
+          "sha": "6b7ce58",
+          "message": "Update .gitignore",
+          "date": "2026-05-17T15:50:53Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/6b7ce580dc7c8d3b448fdf993577270598d94f6f"
+        },
+        {
+          "sha": "4866626",
+          "message": "chore: sync latest MCP server updates",
+          "date": "2026-05-17T15:48:23Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/486662648c3608591b11e63f2af8cb9e49780d59"
+        }
+      ]
+    },
+    {
+      "name": "DocuDroid - AI Document Analysis Bot",
+      "summary": "LLM and vector-search document QA system using a temporary in-memory vector store for immediate retrieval and LLM-generated answers over PDFs or static documentation webpages.",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "InMemoryVectorStore",
+        "Docker",
+        "Google Cloud Run"
+      ],
+      "repo_url": "https://github.com/wsmaisys/DocuDroid",
+      "deployed_urls": [
+        "https://docudroid-114168985695.us-central1.run.app"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-10-07T19:24:03Z",
+      "recent_commits": [
+        {
+          "sha": "84b8375",
+          "message": "Migrate from Azure to Google Cloud Run",
+          "date": "2025-10-07T19:23:47Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/84b8375dc779561c7a334a261395d3da261bf6d9"
+        },
+        {
+          "sha": "7473ff8",
+          "message": "Delete .github/workflows directory",
+          "date": "2025-10-07T19:16:40Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/7473ff853282afddf5bcc571fdece989e11c3042"
+        },
+        {
+          "sha": "5edcdca",
+          "message": "UI Refactored",
+          "date": "2025-09-07T19:42:11Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/5edcdca5baddcbc9e899c2fe0d4d20e4686f212c"
+        }
+      ]
+    },
+    {
+      "name": "PDF Excel Extractor - AI Power Tool",
+      "summary": "AI-powered document extractor where an LLM determines relevant extraction fields without hardcoded schema and converts extracted text into structured Excel spreadsheets.",
+      "skills": [
+        "PDF scraping",
+        "LLM schema detection",
+        "FastAPI",
+        "BLEU Score",
+        "Docker",
+        "Google Cloud Run"
+      ],
+      "repo_url": "https://github.com/wsmaisys/pdf-excel-extractor",
+      "deployed_urls": [
+        "https://pdf-excel-extractor-319169836562.us-central1.run.app"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-11-20T12:54:16Z",
+      "recent_commits": [
+        {
+          "sha": "f1e8823",
+          "message": "Add clear deployed link and comprehensive API documentation",
+          "date": "2025-11-20T12:53:57Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/f1e88239d639a3c6385ac1937e5e96ecf35500ea"
+        },
+        {
+          "sha": "cc857cc",
+          "message": "Updated Readme",
+          "date": "2025-11-20T12:26:26Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/cc857ccda124148efa1e948606e9cda950ea997f"
+        },
+        {
+          "sha": "65d2ece",
+          "message": "Updated Readme",
+          "date": "2025-11-20T12:19:30Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/65d2ece778f4665ae1ef0a9dce02b3b3daa9ddd4"
+        }
+      ]
+    },
+    {
+      "name": "Flux - Text-to-Image Generator",
+      "summary": "Image generation tool using Hugging Face diffusion models to create images from text prompts through an intuitive UI and API.",
+      "skills": [
+        "Python",
+        "Azure Web Apps",
+        "Hugging Face Diffusers",
+        "PIL",
+        "Docker",
+        "FastAPI"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Flux-Image-Generator",
+      "deployed_urls": [
+        "https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net",
+        "https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net/generate-image"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2026-01-26T13:27:12Z",
+      "recent_commits": [
+        {
+          "sha": "4dc366e",
+          "message": "Inference provider updated",
+          "date": "2026-01-26T13:26:58Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/4dc366e211fd656e6976d99cbd87cc31b685b684"
+        },
+        {
+          "sha": "be5efdf",
+          "message": "Optimize Dockerfile for Azure App Service deployment",
+          "date": "2025-11-03T10:23:32Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/be5efdfb3fea4f6b6c544b6aa634aa1e86d3fee6"
+        },
+        {
+          "sha": "1da78a7",
+          "message": "Add or update the Azure App Service build and deployment workflow config",
+          "date": "2025-11-03T10:06:20Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/1da78a721e2e11e9717469ea6e4e67d0efe0bc2e"
+        }
+      ]
+    },
+    {
+      "name": "Jurisol - Legal AI Assistant",
+      "summary": "LLM-based legal RAG assistant using ChromaDB vector search, summarization tools, and online legal document search.",
+      "skills": [
+        "RAG",
+        "Vector Database",
+        "LangGraph",
+        "FastAPI",
+        "Mistral LLM",
+        "Document Summarization"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG",
+      "deployed_urls": [
+        "https://jurisol-legal-assistant-rag.onrender.com"
+      ],
+      "artifact_urls": [
+        "https://hub.docker.com/r/wasimansariiitm/jurisol-legal-assistant"
+      ],
+      "github_updated_at": "2025-10-26T20:44:05Z",
+      "recent_commits": [
+        {
+          "sha": "49e74ec",
+          "message": "Add live demo link and deployment information to README",
+          "date": "2025-08-18T08:41:39Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/49e74ec59dddf76f8c755b4f4e7716f64130d396"
+        },
+        {
+          "sha": "fad0001",
+          "message": "Fix chat thread switching and new chat functionality",
+          "date": "2025-08-18T06:53:58Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/fad00013473c23a87fad44b37781198dc4411eb3"
+        },
+        {
+          "sha": "bcaf837",
+          "message": "Remove unnecessary Law_Bare_Acts_Json files from Dockerfile since ChromaDB contains embeddings",
+          "date": "2025-08-18T06:23:29Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/bcaf837467cb63c6257f14ab775f9d7b74768cf0"
+        }
+      ]
+    },
+    {
+      "name": "BikeValuePro",
+      "summary": "Machine learning model for used bike price prediction with 94.9% accuracy, Streamlit UI, deployment-ready architecture, and personalized pricing advice.",
+      "skills": [
+        "Machine Learning",
+        "Predictive Analytics",
+        "XGBoost",
+        "Scikit-learn",
+        "Pandas",
+        "Streamlit"
+      ],
+      "repo_url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel",
+      "deployed_urls": [
+        "https://used-bike-price-predictor.streamlit.app",
+        "https://usedbike-price-predictor-mlmodel.onrender.com"
+      ],
+      "artifact_urls": [
+        "https://hub.docker.com/r/wasimansariiitm/bikevaluepro-used_bike_price_predictor"
+      ],
+      "github_updated_at": "2025-07-05T01:19:10Z",
+      "recent_commits": [
+        {
+          "sha": "3bdb346",
+          "message": "Update README with Docker Hub usage and badge",
+          "date": "2025-07-05T01:18:54Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/3bdb3465cc2dc5c95d2011716865eab981f41a6e"
+        },
+        {
+          "sha": "7e1e646",
+          "message": "Fix: pin Python to 3.10 for scipy compatibility",
+          "date": "2025-07-05T00:24:49Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/7e1e6469f40b6158a68d5d32743ec186b28b4599"
+        },
+        {
+          "sha": "9e3a2ab",
+          "message": "Update requirements.txt: add --only-binary for scipy and update statsmodels version",
+          "date": "2025-07-05T00:16:24Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/9e3a2abca4cd4d90571d57528c1db8ea4c5bd6b2"
+        }
+      ]
+    },
+    {
+      "name": "IITM Assignment Solver",
+      "summary": "Self-executing AI agent that processes ZIP, CSV, PDF, Excel, and JSON files, generates Python code, and runs it in a sandboxed environment. Built for an IITM challenge and secured A+ grade.",
+      "skills": [
+        "AI Agent",
+        "Code Generation",
+        "LLM",
+        "File Processing",
+        "FastAPI",
+        "LangChain",
+        "Mistral",
+        "Automation"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Assignment_Solving_Agent",
+      "deployed_urls": [
+        "https://assignment-solving-agent.onrender.com"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-08-11T07:58:18Z",
+      "recent_commits": [
+        {
+          "sha": "cc88d05",
+          "message": "Advisory added",
+          "date": "2025-08-11T07:58:02Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/cc88d05cecfca6e890d8ac8086a03d0ea83dde87"
+        },
+        {
+          "sha": "720fb46",
+          "message": "Added UI",
+          "date": "2025-08-11T07:47:14Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/720fb4676c139b340e3d89a605168a13ff897a53"
+        },
+        {
+          "sha": "419d97b",
+          "message": "updated repo",
+          "date": "2025-04-20T15:33:49Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/419d97b30dc759d9da2d014dc70c53c12ed840d8"
+        }
+      ]
+    },
+    {
+      "name": "System Threat Forecaster",
+      "summary": "IIT Madras coursework project noted as Top 5% in Kaggle.",
+      "skills": [
+        "Machine Learning",
+        "Kaggle",
+        "Threat forecasting"
+      ],
+      "repo_url": "https://github.com/wsmaisys/System_Threat_Forecaster",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "github_updated_at": "2025-04-20T16:53:46Z",
+      "recent_commits": [
+        {
+          "sha": "9775808",
+          "message": "updated readme",
+          "date": "2025-04-20T16:53:32Z",
+          "url": "https://github.com/wsmaisys/System_Threat_Forecaster/commit/9775808e1474991f197a3ab98ab251aa043b34f3"
+        },
+        {
+          "sha": "7c995ce",
+          "message": "Create LICENSE",
+          "date": "2025-04-20T16:40:45Z",
+          "url": "https://github.com/wsmaisys/System_Threat_Forecaster/commit/7c995ce597e8adec02d7f79bfde8dfe0797897b0"
+        },
+        {
+          "sha": "005e153",
+          "message": "Uploaded files",
+          "date": "2025-04-20T16:32:46Z",
+          "url": "https://github.com/wsmaisys/System_Threat_Forecaster/commit/005e153cdf986108be66bde78e3204a057c667c1"
+        }
+      ]
+    },
+    {
+      "name": "Protein Secondary Structure Prediction",
+      "summary": "IIT Madras data science project listed in CV.",
+      "skills": [
+        "Data Science",
+        "Machine Learning"
+      ],
+      "deployed_urls": [],
+      "artifact_urls": []
+    },
+    {
+      "name": "Music Genre Classification",
+      "summary": "IIT Madras data science project listed in CV.",
+      "skills": [
+        "Machine Learning",
+        "Classification"
+      ],
+      "deployed_urls": [],
+      "artifact_urls": []
+    },
+    {
+      "name": "Neo4j MCP Adapter",
+      "summary": "MCP adapter exposing Neo4j-backed capabilities through streamable HTTP endpoints.",
+      "skills": [
+        "Neo4j",
+        "MCP",
+        "Google Cloud Run"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter",
+      "deployed_urls": [
+        "https://neo4j-mcp-adapter-736344442420.us-central1.run.app/mcp"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2026-05-25T06:19:20Z",
+      "recent_commits": [
+        {
+          "sha": "6bc1064",
+          "message": "admin mcp tools added",
+          "date": "2026-05-25T06:19:05Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/6bc1064e5308c1621f3983533cfc7afa054cb84b"
+        },
+        {
+          "sha": "75c1337",
+          "message": "Secure MCP scoped tool update for Neo4j workspaces",
+          "date": "2026-05-23T08:00:22Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/75c13371a092c1daeb3a2836cbe9ad31e6732e41"
+        },
+        {
+          "sha": "59fea50",
+          "message": "Simplify docs and enforce read-only deployment",
+          "date": "2026-04-23T08:19:18Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/59fea50333be716f69daac6f344ecfefb554465d"
+        }
+      ]
+    },
+    {
+      "name": "RudeBot",
+      "summary": "Mistral-powered Streamlit chatbot project listed on portfolio.",
+      "skills": [
+        "Mistral",
+        "Streamlit",
+        "Python"
+      ],
+      "repo_url": "https://github.com/wsmaisys/RudeBot",
+      "deployed_urls": [
+        "https://rudebot-mistral.streamlit.app"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-08-11T17:18:40Z",
+      "recent_commits": [
+        {
+          "sha": "cbd19e9",
+          "message": "rude",
+          "date": "2025-08-11T17:18:20Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/cbd19e90749a7c5460060761947055e10751d9f0"
+        },
+        {
+          "sha": "7be39fc",
+          "message": "Docker",
+          "date": "2025-08-11T17:00:00Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/7be39fc25fedec6d1b773d5b980781709ecc7161"
+        },
+        {
+          "sha": "2679a08",
+          "message": "Create LICENSE",
+          "date": "2025-08-11T16:47:13Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/2679a08797a56bb64a94338b7fa04eff0973351a"
+        }
+      ]
+    },
+    {
+      "name": "Face Mask Detection CNN Model",
+      "summary": "Computer vision face-mask detector using a CNN/VGG16 approach with Hugging Face Space deployment.",
+      "skills": [
+        "Computer Vision",
+        "CNN",
+        "VGG16",
+        "Hugging Face Spaces"
+      ],
+      "repo_url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "github_updated_at": "2025-09-26T17:29:40Z",
+      "recent_commits": [
+        {
+          "sha": "a4e70da",
+          "message": "Last Update",
+          "date": "2025-09-26T17:29:28Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/a4e70da0778ed152b24cd806038a1169a7d0d581"
+        },
+        {
+          "sha": "24fec29",
+          "message": "docs: Add GitHub and Hugging Face Space links",
+          "date": "2025-09-26T17:25:32Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/24fec29d06d01e540b29a90e537aa4cfadeccb61"
+        },
+        {
+          "sha": "8f2cc92",
+          "message": "Updated Readme",
+          "date": "2025-09-26T17:24:28Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/8f2cc92871d223852802e799952394c34008ceb6"
+        }
+      ]
+    },
+    {
+      "name": "Mogambo Voice AI Scheduler",
+      "summary": "Voice AI calendar scheduling assistant deployed on Render.",
+      "skills": [
+        "Voice AI",
+        "Scheduling",
+        "Render"
+      ],
+      "repo_url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler",
+      "deployed_urls": [
+        "https://mogambo-calendar-assistant.onrender.com"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2026-05-17T06:33:46Z",
+      "recent_commits": [
+        {
+          "sha": "ecad57d",
+          "message": "Update required",
+          "date": "2026-05-17T06:33:30Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/ecad57d84ec2f083977c0fbed14cf833b848d286"
+        },
+        {
+          "sha": "07201b6",
+          "message": "Update readme.md",
+          "date": "2025-08-16T14:50:53Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/07201b6cc2e0b2afc3d8990eb2e04143211e7926"
+        },
+        {
+          "sha": "fd177d1",
+          "message": "Updated Callback/Auth",
+          "date": "2025-08-14T08:43:05Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/fd177d199d5c1ccfdfc76a84693765016eebd230"
+        }
+      ]
+    },
+    {
+      "name": "Interview Prep Assistant",
+      "summary": "Streamlit assistant for interview preparation.",
+      "skills": [
+        "Streamlit",
+        "AI Assistant",
+        "Python"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Interview_Prep_Assistant",
+      "deployed_urls": [
+        "https://interview-prep-assistant.streamlit.app"
+      ],
+      "artifact_urls": [
+        "https://hub.docker.com/r/wasimansariiitm/jurisol-legal-assistant"
+      ],
+      "github_updated_at": "2025-05-31T10:37:59Z",
+      "recent_commits": [
+        {
+          "sha": "6b630c4",
+          "message": "Update README.md with Streamlit app link",
+          "date": "2025-05-31T10:37:35Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/6b630c422f32b411f80ae6e054dfe8b41b0c061e"
+        },
+        {
+          "sha": "5d7e201",
+          "message": "Update UI: Center main header and subtitle, remove debug message",
+          "date": "2025-05-31T10:30:45Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/5d7e201f2e30ec77e0cbc9edefe392d417eabc95"
+        },
+        {
+          "sha": "5c1045b",
+          "message": "Update README.md with project description and personal links",
+          "date": "2025-05-31T10:07:42Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/5c1045b395491094cbf546a6471cd743f50049b4"
+        }
+      ]
+    },
+    {
+      "name": "Google Cloud Blog App",
+      "summary": "Google Cloud deployed blog application.",
+      "skills": [
+        "Google Cloud Run",
+        "Python"
+      ],
+      "repo_url": "https://github.com/wsmaisys/google-cloud-app",
+      "deployed_urls": [
+        "https://blog-app-699175796072.asia-south2.run.app"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-05-09T16:02:56Z",
+      "recent_commits": [
+        {
+          "sha": "b1618c8",
+          "message": "readme updated",
+          "date": "2025-05-09T16:02:46Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/b1618c8ad03298d062de3f3b130cced2bf52ba99"
+        },
+        {
+          "sha": "c891739",
+          "message": "Create LICENSE",
+          "date": "2025-05-09T15:46:25Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/c891739a9c158edf43d6b0c6fd2949749ecb8365"
+        },
+        {
+          "sha": "513f068",
+          "message": "app files",
+          "date": "2025-05-09T15:45:12Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/513f06870d05c017252df96dfa3c58a4dc857590"
+        }
+      ]
+    },
+    {
+      "name": "Text Similarity Detector",
+      "summary": "Application for detecting text similarity with deployed Render demo.",
+      "skills": [
+        "NLP",
+        "Text similarity",
+        "Docker"
+      ],
+      "repo_url": "https://github.com/wsmaisys/Text_similarity_detection",
+      "deployed_urls": [
+        "https://text-similarity-detector.onrender.com"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2025-05-03T09:26:06Z",
+      "recent_commits": [
+        {
+          "sha": "ab2b781",
+          "message": "Merge branch 'main' of https://github.com/wasimansari-iitm/Text_similarity_detection",
+          "date": "2025-05-03T09:23:11Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/ab2b7815873a688b34cf6b594e5814eebdc214b0"
+        },
+        {
+          "sha": "023732c",
+          "message": "updated readme",
+          "date": "2025-05-03T09:22:50Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/023732c50d3428711900b2f19db07d5eb2e19207"
+        },
+        {
+          "sha": "2f5a009",
+          "message": "Create LICENSE",
+          "date": "2025-05-03T09:17:50Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/2f5a009aa6eb9832523e58b0f6e10948eb84db3a"
+        }
+      ]
+    },
+    {
+      "name": "Music Genre Classifier",
+      "summary": "Deep learning and GenAI project with Hugging Face Space deployment for music genre classification.",
+      "skills": [
+        "Deep Learning",
+        "PyTorch",
+        "Hugging Face Spaces"
+      ],
+      "repo_url": "https://github.com/wsmaisys/dl-genai-project-jan-26",
+      "deployed_urls": [
+        "https://huggingface.co/spaces/24ds3000090-IITM/music-genre-classifier"
+      ],
+      "artifact_urls": [],
+      "github_updated_at": "2026-05-31T07:49:48Z",
+      "recent_commits": [
+        {
+          "sha": "e51b450",
+          "message": "Kaggle Score Improved, Report refactored",
+          "date": "2026-03-30T16:46:08Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/e51b45097e6491e624b859d4794efe00a40cbdfc"
+        },
+        {
+          "sha": "19ce611",
+          "message": "Updated Project Report",
+          "date": "2026-03-29T09:21:35Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/19ce611e11d223e25a1f011d61ceee84dcd144a9"
+        },
+        {
+          "sha": "379d191",
+          "message": "Updated README file",
+          "date": "2026-03-27T06:17:12Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/379d191680dda0ba28c724dcbc338eac46a74003"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "program": "Diploma in Programming",
+      "institution": "IIT Madras",
+      "period": "06/2026 - Present",
+      "notes": "Coursework includes Programming Fundamentals (Python, JavaScript, Linux, HTML/CSS, C), Data Structures, Algorithms, Software Development, App Architecture and System Design. Grade: Ongoing."
+    },
+    {
+      "program": "Diploma in Data Science",
+      "institution": "IIT Madras",
+      "period": "09/2024 - 05/2026",
+      "notes": "Coursework includes ML, Linear Algebra, Statistics, Business Analytics, Tools for Data Science, Deep Learning, Gen AI, and Capstone Projects. Grade: CGPA 8.25."
+    },
+    {
+      "program": "Bachelor of Laws (5 years integrated)",
+      "institution": "Savitribai Phule Pune University",
+      "period": "2007 - 2012",
+      "notes": "Coursework includes Constitution, Civil and Criminal Laws, Procedural Laws, IPR, Banking Law, Environment Law, and Drafting. Grade: Higher Secondary Class. Participated in 1st Student Parliament and Moot Court Competitions."
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "IELTS 7 Band"
+    },
+    {
+      "language": "Hindi",
+      "proficiency": "Native or Bilingual"
+    },
+    {
+      "language": "Urdu",
+      "proficiency": "Native or Bilingual"
+    }
+  ],
+  "certifications": [{
+    "Understanding Google Cloud Platform": "https://drive.google.com/file/d/1EivS-npC1nXRtYXRTpLkcw0u_F7ELLm5/view",
+    "Cryptography for Beginners": null,
+    "Azure Essentials": "https://www.linkedin.com/learning/certificates/78528925dca9a439f8800cfd071eca7bb1010b704843b3202c4308213cca6fcd",
+    "Dubai RERA Certification": "https://drive.google.com/file/d/1lDhV_cAl9SK-9cxbWJhd9tijZlLyHjRG/view"}
+  ],
+  "publications": [
+    {
+      "title": "Adapting Export Strategies for Indian Handmade Carpets: A Response to Rising Global Tariffs",
+      "summary": "Data-driven export strategy for India's handmade carpet industry navigating rising U.S. tariffs using Python-led trade analytics, market opportunity scoring, and competitive benchmarking.",
+      "link": "https://medium.com/@wsmaisys/adapting-export-strategies-for-indian-handmade-carpets-a-response-to-rising-global-tariffs-070a2796d762"
+    },
+    {
+      "title": "Hallucinations in AI Legal Research: A Lawyer's Worst Nightmare?",
+      "summary": "Article on AI hallucinations in legal research, fabricated case-law risks, prompt precision, domain-specific models, and ethical safeguards.",
+      "link": "https://www.linkedin.com/pulse/hallucinations-ai-legal-research-lawyers-worst-nightmare-ansari-etkue"
+    },
+    {
+      "title": "Teaching Computers to See Like Humans: The Brain Science Behind Smart Technology",
+      "summary": "Explains how CNNs use kernels, feature maps, and layering to enable machines to see images and power computer-vision applications.",
+      "link": "https://www.linkedin.com/pulse/teaching-computers-see-like-humans-brain-science-behind-ansari-fbgne"
+    }
+  ],
+  "source_files": [
+    {
+      "path": "Wasim-Ansari-Detailed-CV.pdf",
+      "type": "resume_pdf",
+      "pages": 3,
+      "extracted_chars": 9770
+    },
+    {
+      "path": "generated/github_enrichment.json",
+      "type": "github_api_enrichment",
+      "repo_count": 24
+    },
+    {
+      "path": "generated/portfolio_enrichment.json",
+      "type": "portfolio_scrape_enrichment",
+      "link_count": 58
+    }
+  ],
+  "github_repositories": [
+    {
+      "name": "wsmaisys",
+      "repo_url": "https://github.com/wsmaisys/wsmaisys",
+      "description": "Github Profile",
+      "primary_language": null,
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-10-07T19:58:06Z",
+      "updated_at": "2026-06-09T17:14:48Z",
+      "deployed_urls": [
+        "https://wsmaisys.github.io/waseemmansari.github.io",
+        "https://www.hyrefast.ai",
+        "https://www.zovia.ai"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "2601b92",
+          "message": "Update GitHub profile README",
+          "date": "2026-06-09T17:09:36Z",
+          "url": "https://github.com/wsmaisys/wsmaisys/commit/2601b926bbbe884bf3ebb7985db72567299b3429"
+        },
+        {
+          "sha": "8f71bb4",
+          "message": "Change GitHub link to new project repository",
+          "date": "2026-05-31T07:51:55Z",
+          "url": "https://github.com/wsmaisys/wsmaisys/commit/8f71bb4de9d6de96eea5b86d7df939dc0c3aba36"
+        },
+        {
+          "sha": "c0c66a4",
+          "message": "Revise README with updated qualifications and roles",
+          "date": "2026-05-15T18:54:17Z",
+          "url": "https://github.com/wsmaisys/wsmaisys/commit/c0c66a4e845dc0d38815b149f4942cab1bd0760f"
+        },
+        {
+          "sha": "d3b8e59",
+          "message": "Replace GitHub stats links with faster API versions",
+          "date": "2026-05-15T18:45:35Z",
+          "url": "https://github.com/wsmaisys/wsmaisys/commit/d3b8e594e0fe5edddb883c46b5e8930fa687229c"
+        },
+        {
+          "sha": "03fd111",
+          "message": "Update README.md with new image links and stats",
+          "date": "2026-05-15T18:42:26Z",
+          "url": "https://github.com/wsmaisys/wsmaisys/commit/03fd111626cc2031d51891b686c6bc4e05afcb89"
+        }
+      ]
+    },
+    {
+      "name": "waseemmansari.github.io",
+      "repo_url": "https://github.com/wsmaisys/waseemmansari.github.io",
+      "description": "Personal portfolio website showcasing projects, skills, and resume.",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-04-20T17:10:01Z",
+      "updated_at": "2026-06-09T16:26:18Z",
+      "deployed_urls": [
+        "https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp",
+        "https://waseemmansari.github.io/analytics.html",
+        "https://www.hyrefast.ai",
+        "https://www.zovia.ai"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "1aa724f",
+          "message": "Updated techpranee projects",
+          "date": "2026-06-09T16:16:41Z",
+          "url": "https://github.com/wsmaisys/waseemmansari.github.io/commit/1aa724f8f088b9912697ce784f9aa73df9f396db"
+        },
+        {
+          "sha": "5bcf2af",
+          "message": "Updated Resume",
+          "date": "2026-05-31T09:05:09Z",
+          "url": "https://github.com/wsmaisys/waseemmansari.github.io/commit/5bcf2af1ba0af99226aa67fa1c2427dcb606983f"
+        },
+        {
+          "sha": "c5dc287",
+          "message": "Updated Portfolio Theme",
+          "date": "2026-05-17T19:17:19Z",
+          "url": "https://github.com/wsmaisys/waseemmansari.github.io/commit/c5dc287eda1df88b141ac47ad979ff703a8a07c8"
+        },
+        {
+          "sha": "65e1fc3",
+          "message": "sitemap added",
+          "date": "2026-04-27T11:31:54Z",
+          "url": "https://github.com/wsmaisys/waseemmansari.github.io/commit/65e1fc3c56c753c5f56f28f8f5b0202aa376d1b1"
+        },
+        {
+          "sha": "d129c5c",
+          "message": "Update index",
+          "date": "2026-04-26T07:39:01Z",
+          "url": "https://github.com/wsmaisys/waseemmansari.github.io/commit/d129c5c57d51fd24c8c36211aac49dbc984e0152"
+        }
+      ]
+    },
+    {
+      "name": "youtube-to-mp3-app",
+      "repo_url": "https://github.com/wsmaisys/youtube-to-mp3-app",
+      "description": "A simple local web app that turns a YouTube video into a 320 kbps MP3 file. For personal use only.",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-06-06T09:53:09Z",
+      "updated_at": "2026-06-06T10:09:56Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "9b05c98",
+          "message": "requirements updated",
+          "date": "2026-06-06T10:09:42Z",
+          "url": "https://github.com/wsmaisys/youtube-to-mp3-app/commit/9b05c98416c0e30f942ef3e2152ca2453bb6ef03"
+        },
+        {
+          "sha": "de2d0ca",
+          "message": "Update README license details",
+          "date": "2026-06-06T10:07:10Z",
+          "url": "https://github.com/wsmaisys/youtube-to-mp3-app/commit/de2d0ca28fb4222c9a208d6614c9bf701a4260f8"
+        },
+        {
+          "sha": "e3217d9",
+          "message": "Merge origin/main",
+          "date": "2026-06-06T10:03:30Z",
+          "url": "https://github.com/wsmaisys/youtube-to-mp3-app/commit/e3217d9a781e18a379d45bab0ab66728106d636d"
+        },
+        {
+          "sha": "a748b61",
+          "message": "Initial app import",
+          "date": "2026-06-06T10:01:13Z",
+          "url": "https://github.com/wsmaisys/youtube-to-mp3-app/commit/a748b614b4669ae41701b8aa230a46db114e5be1"
+        },
+        {
+          "sha": "f8a6d54",
+          "message": "Add entries to .gitignore for various files",
+          "date": "2026-06-06T09:59:15Z",
+          "url": "https://github.com/wsmaisys/youtube-to-mp3-app/commit/f8a6d545aeacd90372a1d31637c2029939a13fb8"
+        }
+      ]
+    },
+    {
+      "name": "dl-genai-project-jan-26",
+      "repo_url": "https://github.com/wsmaisys/dl-genai-project-jan-26",
+      "description": "This repo is for the DL Gen AI project of IIT, Madras. This was January 2026 project. This repo contains training notebook and related files.",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-02-15T04:34:16Z",
+      "updated_at": "2026-05-31T07:49:48Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "e51b450",
+          "message": "Kaggle Score Improved, Report refactored",
+          "date": "2026-03-30T16:46:08Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/e51b45097e6491e624b859d4794efe00a40cbdfc"
+        },
+        {
+          "sha": "19ce611",
+          "message": "Updated Project Report",
+          "date": "2026-03-29T09:21:35Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/19ce611e11d223e25a1f011d61ceee84dcd144a9"
+        },
+        {
+          "sha": "379d191",
+          "message": "Updated README file",
+          "date": "2026-03-27T06:17:12Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/379d191680dda0ba28c724dcbc338eac46a74003"
+        },
+        {
+          "sha": "b11035d",
+          "message": "Updated Readme file",
+          "date": "2026-03-27T06:11:13Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/b11035d43ef69723e870745045e0cc035ca9e45f"
+        },
+        {
+          "sha": "a41ba84",
+          "message": "docs: add deployed Hugging Face Spaces link to README",
+          "date": "2026-03-26T18:08:29Z",
+          "url": "https://github.com/wsmaisys/dl-genai-project-jan-26/commit/a41ba84ff35424f4cf17e928185b3ea103f96014"
+        }
+      ]
+    },
+    {
+      "name": "Neo4j-MCP-Adapter",
+      "repo_url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter",
+      "description": "This is an MCP adapter created and deployed to connect with Neo4j community edition instances ",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2026-04-20T11:29:02Z",
+      "updated_at": "2026-05-25T06:19:20Z",
+      "deployed_urls": [
+        "https://neo4j-mcp-adapter-736344442420.us-central1.run.app/mcp"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "6bc1064",
+          "message": "admin mcp tools added",
+          "date": "2026-05-25T06:19:05Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/6bc1064e5308c1621f3983533cfc7afa054cb84b"
+        },
+        {
+          "sha": "75c1337",
+          "message": "Secure MCP scoped tool update for Neo4j workspaces",
+          "date": "2026-05-23T08:00:22Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/75c13371a092c1daeb3a2836cbe9ad31e6732e41"
+        },
+        {
+          "sha": "59fea50",
+          "message": "Simplify docs and enforce read-only deployment",
+          "date": "2026-04-23T08:19:18Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/59fea50333be716f69daac6f344ecfefb554465d"
+        },
+        {
+          "sha": "1353f2b",
+          "message": "Sync docs and cleanup MCP deployment",
+          "date": "2026-04-20T14:03:05Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/1353f2bfadfc9d522b961c37c12a023e881beaf9"
+        },
+        {
+          "sha": "28efc73",
+          "message": "Fix Cloud Run MCP host handling",
+          "date": "2026-04-20T12:27:23Z",
+          "url": "https://github.com/wsmaisys/Neo4j-MCP-Adapter/commit/28efc73f3a5018eda4a95e56fbbd165e5aff875b"
+        }
+      ]
+    },
+    {
+      "name": "MediFlow-Post-Discharge-Medical-AI-Assistant",
+      "repo_url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant",
+      "description": "MediFlow is a production-ready, multi-agent AI chatbot designed to provide intelligent medical guidance and personalized support to patients after hospital discharge. Developed as an assignment for DataSmith-AI.",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-11-29T14:07:14Z",
+      "updated_at": "2026-05-17T17:27:14Z",
+      "deployed_urls": [
+        "https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "00b5943",
+          "message": "Update MediFlow assistant code",
+          "date": "2026-05-17T17:27:10Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/00b594389b9cffd31ed80f9fea23b6b6e7875119"
+        },
+        {
+          "sha": "70af659",
+          "message": "Update 2.0 - Fixed Architecture",
+          "date": "2026-05-17T15:37:35Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/70af65962dcdb7c3e244ef5f35b556358d3f28db"
+        },
+        {
+          "sha": "d6b50e4",
+          "message": "updated nodes and tool messaging",
+          "date": "2025-11-30T07:05:32Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/d6b50e4f12aa2ebccc3976f79f788cf15e17cb3f"
+        },
+        {
+          "sha": "aa6e5ef",
+          "message": "Modified CORS",
+          "date": "2025-11-29T21:21:41Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/aa6e5ef429c531875bf31f0b40611ae71269ba36"
+        },
+        {
+          "sha": "a1b6e7d",
+          "message": "Create LICENSE",
+          "date": "2025-11-29T21:19:54Z",
+          "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant/commit/a1b6e7da33c286b233355fc9be42d87fa6f209d5"
+        }
+      ]
+    },
+    {
+      "name": "Nephrology-RAG-MCP-tool",
+      "repo_url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool",
+      "description": "Medical Knowledge Retrieval for Nephrology using the Model Context Protocol (MCP)",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-11-26T14:09:05Z",
+      "updated_at": "2026-05-17T16:02:49Z",
+      "deployed_urls": [
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp",
+        "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp.json"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "7cf8386",
+          "message": "chore: add mcp response sample and remove python pin",
+          "date": "2026-05-17T16:02:45Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/7cf83860ec2733b4fe70e4aabc95b20009bf5820"
+        },
+        {
+          "sha": "6b7ce58",
+          "message": "Update .gitignore",
+          "date": "2026-05-17T15:50:53Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/6b7ce580dc7c8d3b448fdf993577270598d94f6f"
+        },
+        {
+          "sha": "4866626",
+          "message": "chore: sync latest MCP server updates",
+          "date": "2026-05-17T15:48:23Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/486662648c3608591b11e63f2af8cb9e49780d59"
+        },
+        {
+          "sha": "fc215b6",
+          "message": "M",
+          "date": "2025-11-27T19:42:02Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/fc215b61608943798d6d52b810fe1dc282639e28"
+        },
+        {
+          "sha": "8fa049d",
+          "message": "m",
+          "date": "2025-11-27T18:58:53Z",
+          "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool/commit/8fa049d5ddcda6f96b2d9c3a858341f3f84cd017"
+        }
+      ]
+    },
+    {
+      "name": "mogambo-voice-ai-scheduler",
+      "repo_url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler",
+      "description": "A privacy-first AI assistant for voice and text-based Google Calendar scheduling, event management, and intelligent workflow automation.",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-07-17T19:13:29Z",
+      "updated_at": "2026-05-17T06:33:46Z",
+      "deployed_urls": [
+        "https://mogambo-calendar-assistant.onrender.com"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "ecad57d",
+          "message": "Update required",
+          "date": "2026-05-17T06:33:30Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/ecad57d84ec2f083977c0fbed14cf833b848d286"
+        },
+        {
+          "sha": "07201b6",
+          "message": "Update readme.md",
+          "date": "2025-08-16T14:50:53Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/07201b6cc2e0b2afc3d8990eb2e04143211e7926"
+        },
+        {
+          "sha": "fd177d1",
+          "message": "Updated Callback/Auth",
+          "date": "2025-08-14T08:43:05Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/fd177d199d5c1ccfdfc76a84693765016eebd230"
+        },
+        {
+          "sha": "1a32bcf",
+          "message": "fix: pydantic compatibility for structured response parsing",
+          "date": "2025-07-19T05:49:13Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/1a32bcf7f64813955ca4e09aa2d64e09f8f7f835"
+        },
+        {
+          "sha": "717d921",
+          "message": "Remove .vscode folder from GitHub repo",
+          "date": "2025-07-18T22:05:13Z",
+          "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler/commit/717d921b5095aaab68aee943f99b8a3871a9a47c"
+        }
+      ]
+    },
+    {
+      "name": "Flux-Image-Generator",
+      "repo_url": "https://github.com/wsmaisys/Flux-Image-Generator",
+      "description": "This is a personal mini project to build an Image Generator using FLUX.1-schnell model from Hugging Face.",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-08-20T14:49:50Z",
+      "updated_at": "2026-01-26T13:27:12Z",
+      "deployed_urls": [
+        "https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net",
+        "https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net/generate-image"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "4dc366e",
+          "message": "Inference provider updated",
+          "date": "2026-01-26T13:26:58Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/4dc366e211fd656e6976d99cbd87cc31b685b684"
+        },
+        {
+          "sha": "be5efdf",
+          "message": "Optimize Dockerfile for Azure App Service deployment",
+          "date": "2025-11-03T10:23:32Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/be5efdfb3fea4f6b6c544b6aa634aa1e86d3fee6"
+        },
+        {
+          "sha": "1da78a7",
+          "message": "Add or update the Azure App Service build and deployment workflow config",
+          "date": "2025-11-03T10:06:20Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/1da78a721e2e11e9717469ea6e4e67d0efe0bc2e"
+        },
+        {
+          "sha": "d60dd97",
+          "message": "App Updated",
+          "date": "2025-11-03T09:59:32Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/d60dd97f05e935d418e655abcc19e60eb253216e"
+        },
+        {
+          "sha": "1451e3b",
+          "message": "Update",
+          "date": "2025-11-03T08:17:01Z",
+          "url": "https://github.com/wsmaisys/Flux-Image-Generator/commit/1451e3b69609564d06aa0e98e7100c729ddf1ad1"
+        }
+      ]
+    },
+    {
+      "name": "multi-agent-travel-planner",
+      "repo_url": "https://github.com/wsmaisys/multi-agent-travel-planner",
+      "description": "An intelligent multi-agent travel planning system powered by CrewAI that generates personalized travel itineraries using AI agents working collaboratively.",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-12-07T17:52:32Z",
+      "updated_at": "2025-12-07T18:44:40Z",
+      "deployed_urls": [
+        "https://multi-agent-travel-planner-crew.streamlit.app"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "5e8577d",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:44:31Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/5e8577df112903b7010497d5d9bc00808cbe7be4"
+        },
+        {
+          "sha": "60d600e",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:40:03Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/60d600e7bc429be0a023b638b15e1294c00e7116"
+        },
+        {
+          "sha": "2e7f0b3",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:33:38Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/2e7f0b35d24ec47bd07d6ea6bc66f74ee4f36455"
+        },
+        {
+          "sha": "34a136b",
+          "message": "pins fixed",
+          "date": "2025-12-07T18:31:29Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/34a136b52b9fa7270afa55b684f3084b1d7da371"
+        },
+        {
+          "sha": "19be35b",
+          "message": "requirements updated",
+          "date": "2025-12-07T18:15:57Z",
+          "url": "https://github.com/wsmaisys/multi-agent-travel-planner/commit/19be35b01a82056af1a32c443803fe3c119b6561"
+        }
+      ]
+    },
+    {
+      "name": "pdf-excel-extractor",
+      "repo_url": "https://github.com/wsmaisys/pdf-excel-extractor",
+      "description": "AI-Powered Document Structuring & Data Extraction Task. Created for Turerz Sole Proprietorship.",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-11-19T19:57:18Z",
+      "updated_at": "2025-11-20T12:54:16Z",
+      "deployed_urls": [
+        "https://pdf-excel-extractor-319169836562.us-central1.run.app"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "f1e8823",
+          "message": "Add clear deployed link and comprehensive API documentation",
+          "date": "2025-11-20T12:53:57Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/f1e88239d639a3c6385ac1937e5e96ecf35500ea"
+        },
+        {
+          "sha": "cc857cc",
+          "message": "Updated Readme",
+          "date": "2025-11-20T12:26:26Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/cc857ccda124148efa1e948606e9cda950ea997f"
+        },
+        {
+          "sha": "65d2ece",
+          "message": "Updated Readme",
+          "date": "2025-11-20T12:19:30Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/65d2ece778f4665ae1ef0a9dce02b3b3daa9ddd4"
+        },
+        {
+          "sha": "4ca4ea2",
+          "message": "Updated Readme",
+          "date": "2025-11-20T11:59:04Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/4ca4ea205a045ea2a4b10b5ab89fc1ac91851576"
+        },
+        {
+          "sha": "715da00",
+          "message": "Fix: Update LangChain imports to use langchain_core.messages for v1.0+ compatibility",
+          "date": "2025-11-20T11:35:08Z",
+          "url": "https://github.com/wsmaisys/pdf-excel-extractor/commit/715da003d40fac6b80ae254f697d0cf13398d1fa"
+        }
+      ]
+    },
+    {
+      "name": "Jurisol-legal-assistant-RAG",
+      "repo_url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG",
+      "description": "Jurisol is a legal assistant powered by Mistral AI’s embedding model and a RAG pipeline. It delivers context-aware, document-grounded answers to legal queries by searching a custom vector store of legal texts. Ideal for legal research, drafting assistance and exploring case-specific information.",
+      "primary_language": "Jupyter Notebook",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-06-21T17:35:31Z",
+      "updated_at": "2025-10-26T20:44:05Z",
+      "deployed_urls": [
+        "https://jurisol-legal-assistant-rag.onrender.com"
+      ],
+      "artifact_urls": [
+        "https://hub.docker.com/r/wasimansariiitm/jurisol-legal-assistant"
+      ],
+      "recent_commits": [
+        {
+          "sha": "49e74ec",
+          "message": "Add live demo link and deployment information to README",
+          "date": "2025-08-18T08:41:39Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/49e74ec59dddf76f8c755b4f4e7716f64130d396"
+        },
+        {
+          "sha": "fad0001",
+          "message": "Fix chat thread switching and new chat functionality",
+          "date": "2025-08-18T06:53:58Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/fad00013473c23a87fad44b37781198dc4411eb3"
+        },
+        {
+          "sha": "bcaf837",
+          "message": "Remove unnecessary Law_Bare_Acts_Json files from Dockerfile since ChromaDB contains embeddings",
+          "date": "2025-08-18T06:23:29Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/bcaf837467cb63c6257f14ab775f9d7b74768cf0"
+        },
+        {
+          "sha": "7e45f2f",
+          "message": "Fix Law_Bare_Acts_Json copy in Dockerfile",
+          "date": "2025-08-18T06:19:36Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/7e45f2fca108cfa0c003cb58136d40c54cdf6c48"
+        },
+        {
+          "sha": "9eec955",
+          "message": "Update Dockerfile for frontend-only deployment",
+          "date": "2025-08-18T06:15:58Z",
+          "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG/commit/9eec955908130ad1bda7040ac03cb6bfbd3b65ff"
+        }
+      ]
+    },
+    {
+      "name": "DocuDroid",
+      "repo_url": "https://github.com/wsmaisys/DocuDroid",
+      "description": "DocuDroid is an AI-powered application that enables intelligent document analysis and web content exploration through Large Language Model (LLM) technology. Built as a Real-Time Retrieval-Augmented Generation (RAG) system, the app provides three distinct modes for interacting with different content types.",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-08-29T14:40:02Z",
+      "updated_at": "2025-10-07T19:24:03Z",
+      "deployed_urls": [
+        "https://docudroid-114168985695.us-central1.run.app"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "84b8375",
+          "message": "Migrate from Azure to Google Cloud Run",
+          "date": "2025-10-07T19:23:47Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/84b8375dc779561c7a334a261395d3da261bf6d9"
+        },
+        {
+          "sha": "7473ff8",
+          "message": "Delete .github/workflows directory",
+          "date": "2025-10-07T19:16:40Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/7473ff853282afddf5bcc571fdece989e11c3042"
+        },
+        {
+          "sha": "5edcdca",
+          "message": "UI Refactored",
+          "date": "2025-09-07T19:42:11Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/5edcdca5baddcbc9e899c2fe0d4d20e4686f212c"
+        },
+        {
+          "sha": "384423f",
+          "message": "Fix environment variable name to match Azure configuration",
+          "date": "2025-08-29T19:23:59Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/384423fbf45f8e43b47cd42f8161ff2d8e8b3511"
+        },
+        {
+          "sha": "f8f8f59",
+          "message": "Fix environment variable name to match Azure configuration",
+          "date": "2025-08-29T19:09:25Z",
+          "url": "https://github.com/wsmaisys/DocuDroid/commit/f8f8f590fc1e300876467cfc41a6dab163e829e9"
+        }
+      ]
+    },
+    {
+      "name": "FaceMask-Detection-CNNModel-VGG16",
+      "repo_url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16",
+      "description": "This is a Pytorch Deep Learning Model designed for detecting face masks. Created by fine-tuning VGG16 network. ",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-09-26T17:08:50Z",
+      "updated_at": "2025-09-26T17:29:40Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "a4e70da",
+          "message": "Last Update",
+          "date": "2025-09-26T17:29:28Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/a4e70da0778ed152b24cd806038a1169a7d0d581"
+        },
+        {
+          "sha": "24fec29",
+          "message": "docs: Add GitHub and Hugging Face Space links",
+          "date": "2025-09-26T17:25:32Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/24fec29d06d01e540b29a90e537aa4cfadeccb61"
+        },
+        {
+          "sha": "8f2cc92",
+          "message": "Updated Readme",
+          "date": "2025-09-26T17:24:28Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/8f2cc92871d223852802e799952394c34008ceb6"
+        },
+        {
+          "sha": "fa18d8c",
+          "message": "All Files",
+          "date": "2025-09-26T17:22:39Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/fa18d8c44e85efd471a9394db825f650143c928d"
+        },
+        {
+          "sha": "b159730",
+          "message": "feat: Initial commit with complete face mask detection system",
+          "date": "2025-09-26T17:18:19Z",
+          "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16/commit/b159730ab4a99afa9fc13130af41c82f49b9c8bf"
+        }
+      ]
+    },
+    {
+      "name": "RudeBot",
+      "repo_url": "https://github.com/wsmaisys/RudeBot",
+      "description": "A sarcastic AI chatbot that adds a twist of humour to your conversations. Built for entertainment, RudeBot responds to your questions with witty, sarcastic remarks while still providing relevant information.",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-08-11T16:39:40Z",
+      "updated_at": "2025-08-11T17:18:40Z",
+      "deployed_urls": [
+        "https://rudebot-mistral.streamlit.app"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "cbd19e9",
+          "message": "rude",
+          "date": "2025-08-11T17:18:20Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/cbd19e90749a7c5460060761947055e10751d9f0"
+        },
+        {
+          "sha": "7be39fc",
+          "message": "Docker",
+          "date": "2025-08-11T17:00:00Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/7be39fc25fedec6d1b773d5b980781709ecc7161"
+        },
+        {
+          "sha": "2679a08",
+          "message": "Create LICENSE",
+          "date": "2025-08-11T16:47:13Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/2679a08797a56bb64a94338b7fa04eff0973351a"
+        },
+        {
+          "sha": "6fdad85",
+          "message": "Create .gitignore",
+          "date": "2025-08-11T16:46:48Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/6fdad85294fd3b5ceab210942d7f8a6c218a92d3"
+        },
+        {
+          "sha": "afe4df4",
+          "message": "Delete __pycache__ directory",
+          "date": "2025-08-11T16:46:20Z",
+          "url": "https://github.com/wsmaisys/RudeBot/commit/afe4df4f3339e6fe380ec250fb26bec12ec214e8"
+        }
+      ]
+    },
+    {
+      "name": "Assignment_Solving_Agent",
+      "repo_url": "https://github.com/wsmaisys/Assignment_Solving_Agent",
+      "description": null,
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-03-31T04:59:30Z",
+      "updated_at": "2025-08-11T07:58:18Z",
+      "deployed_urls": [
+        "https://assignment-solving-agent.onrender.com"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "cc88d05",
+          "message": "Advisory added",
+          "date": "2025-08-11T07:58:02Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/cc88d05cecfca6e890d8ac8086a03d0ea83dde87"
+        },
+        {
+          "sha": "720fb46",
+          "message": "Added UI",
+          "date": "2025-08-11T07:47:14Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/720fb4676c139b340e3d89a605168a13ff897a53"
+        },
+        {
+          "sha": "419d97b",
+          "message": "updated repo",
+          "date": "2025-04-20T15:33:49Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/419d97b30dc759d9da2d014dc70c53c12ed840d8"
+        },
+        {
+          "sha": "b7467b8",
+          "message": "updated readme",
+          "date": "2025-04-20T15:31:19Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/b7467b8ed3572942bdb92accf6f327348b0f2bf9"
+        },
+        {
+          "sha": "8bc19ee",
+          "message": "updated readme",
+          "date": "2025-04-20T15:29:29Z",
+          "url": "https://github.com/wsmaisys/Assignment_Solving_Agent/commit/8bc19eebe63a26def2d9a9dd4cd74463e05e89d0"
+        }
+      ]
+    },
+    {
+      "name": "usedbike_price_predictor_mlmodel",
+      "repo_url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel",
+      "description": "It is mini ML project where a trained XGB model makes used bike price prediction. It provides insights after prediction. Deployed on Streamlit. ",
+      "primary_language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-05-22T09:45:26Z",
+      "updated_at": "2025-07-05T01:19:10Z",
+      "deployed_urls": [
+        "https://used-bike-price-predictor.streamlit.app",
+        "https://usedbike-price-predictor-mlmodel.onrender.com"
+      ],
+      "artifact_urls": [
+        "https://hub.docker.com/r/wasimansariiitm/bikevaluepro-used_bike_price_predictor"
+      ],
+      "recent_commits": [
+        {
+          "sha": "3bdb346",
+          "message": "Update README with Docker Hub usage and badge",
+          "date": "2025-07-05T01:18:54Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/3bdb3465cc2dc5c95d2011716865eab981f41a6e"
+        },
+        {
+          "sha": "7e1e646",
+          "message": "Fix: pin Python to 3.10 for scipy compatibility",
+          "date": "2025-07-05T00:24:49Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/7e1e6469f40b6158a68d5d32743ec186b28b4599"
+        },
+        {
+          "sha": "9e3a2ab",
+          "message": "Update requirements.txt: add --only-binary for scipy and update statsmodels version",
+          "date": "2025-07-05T00:16:24Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/9e3a2abca4cd4d90571d57528c1db8ea4c5bd6b2"
+        },
+        {
+          "sha": "4f5e958",
+          "message": "Add statsmodels to requirements.txt for deployment compatibility",
+          "date": "2025-07-05T00:03:46Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/4f5e9581a552c9c690eb9abe2ee574fae6f663c8"
+        },
+        {
+          "sha": "390c100",
+          "message": "Update requirements.txt with pinned versions for all dependencies",
+          "date": "2025-07-04T23:41:32Z",
+          "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel/commit/390c1006164e011ac2e4e8a8e092b49f6ee61ab8"
+        }
+      ]
+    },
+    {
+      "name": "Interview_Prep_Assistant",
+      "repo_url": "https://github.com/wsmaisys/Interview_Prep_Assistant",
+      "description": "It is a LangChain mini project which helps the user by generating questions based on responses of the users like job role, round of interview, experience and user background.",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-05-31T09:53:01Z",
+      "updated_at": "2025-05-31T10:37:59Z",
+      "deployed_urls": [
+        "https://interview-prep-assistant.streamlit.app"
+      ],
+      "artifact_urls": [
+        "https://hub.docker.com/r/wasimansariiitm/jurisol-legal-assistant"
+      ],
+      "recent_commits": [
+        {
+          "sha": "6b630c4",
+          "message": "Update README.md with Streamlit app link",
+          "date": "2025-05-31T10:37:35Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/6b630c422f32b411f80ae6e054dfe8b41b0c061e"
+        },
+        {
+          "sha": "5d7e201",
+          "message": "Update UI: Center main header and subtitle, remove debug message",
+          "date": "2025-05-31T10:30:45Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/5d7e201f2e30ec77e0cbc9edefe392d417eabc95"
+        },
+        {
+          "sha": "5c1045b",
+          "message": "Update README.md with project description and personal links",
+          "date": "2025-05-31T10:07:42Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/5c1045b395491094cbf546a6471cd743f50049b4"
+        },
+        {
+          "sha": "62f3983",
+          "message": "Create LICENSE",
+          "date": "2025-05-31T09:58:00Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/62f3983b3cdc98c8b086dfea9789025288ec0439"
+        },
+        {
+          "sha": "eb590db",
+          "message": "Create .gitignore",
+          "date": "2025-05-31T09:56:51Z",
+          "url": "https://github.com/wsmaisys/Interview_Prep_Assistant/commit/eb590dba664f5affe13e72c4c14a02a04b8ba0d9"
+        }
+      ]
+    },
+    {
+      "name": "Resume-Builder-ATS-friendly",
+      "repo_url": "https://github.com/wsmaisys/Resume-Builder-ATS-friendly",
+      "description": "This app helps you create ATS-friendly resumes. ATS, or Applicant Tracking System, is a software tool used by employers to digitally manage the hiring process—from posting jobs to screening, tracking, and hiring candidates.",
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-05-27T09:19:49Z",
+      "updated_at": "2025-05-27T09:24:21Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "4695e5e",
+          "message": "Initial commit",
+          "date": "2025-05-27T09:23:58Z",
+          "url": "https://github.com/wsmaisys/Resume-Builder-ATS-friendly/commit/4695e5e9e954ac5c71054ff5e0d5fe757a4e76d6"
+        }
+      ]
+    },
+    {
+      "name": "google-cloud-app",
+      "repo_url": "https://github.com/wsmaisys/google-cloud-app",
+      "description": "This is a tutorial app prepared to demonstrate Google Cloud Platform Skills",
+      "primary_language": "HTML",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-05-09T15:43:02Z",
+      "updated_at": "2025-05-09T16:02:56Z",
+      "deployed_urls": [
+        "https://blog-app-699175796072.asia-south2.run.app"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "b1618c8",
+          "message": "readme updated",
+          "date": "2025-05-09T16:02:46Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/b1618c8ad03298d062de3f3b130cced2bf52ba99"
+        },
+        {
+          "sha": "c891739",
+          "message": "Create LICENSE",
+          "date": "2025-05-09T15:46:25Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/c891739a9c158edf43d6b0c6fd2949749ecb8365"
+        },
+        {
+          "sha": "513f068",
+          "message": "app files",
+          "date": "2025-05-09T15:45:12Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/513f06870d05c017252df96dfa3c58a4dc857590"
+        },
+        {
+          "sha": "921d36a",
+          "message": "first commit",
+          "date": "2025-05-09T15:44:28Z",
+          "url": "https://github.com/wsmaisys/google-cloud-app/commit/921d36a4305ca33983d37a68edaac1f1755ef5d2"
+        }
+      ]
+    },
+    {
+      "name": "Text_similarity_detection",
+      "repo_url": "https://github.com/wsmaisys/Text_similarity_detection",
+      "description": "It is a text similarity detection NLP mini project. Trained on Quora Question pairs.",
+      "primary_language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-05-01T08:22:34Z",
+      "updated_at": "2025-05-03T09:26:06Z",
+      "deployed_urls": [
+        "https://text-similarity-detector.onrender.com"
+      ],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "ab2b781",
+          "message": "Merge branch 'main' of https://github.com/wasimansari-iitm/Text_similarity_detection",
+          "date": "2025-05-03T09:23:11Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/ab2b7815873a688b34cf6b594e5814eebdc214b0"
+        },
+        {
+          "sha": "023732c",
+          "message": "updated readme",
+          "date": "2025-05-03T09:22:50Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/023732c50d3428711900b2f19db07d5eb2e19207"
+        },
+        {
+          "sha": "2f5a009",
+          "message": "Create LICENSE",
+          "date": "2025-05-03T09:17:50Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/2f5a009aa6eb9832523e58b0f6e10948eb84db3a"
+        },
+        {
+          "sha": "ed631f1",
+          "message": "readme",
+          "date": "2025-05-03T09:15:39Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/ed631f15fe8e1ab15165890342cf2f20a2993224"
+        },
+        {
+          "sha": "9568d92",
+          "message": "finalized docker",
+          "date": "2025-05-03T08:26:25Z",
+          "url": "https://github.com/wsmaisys/Text_similarity_detection/commit/9568d92d1f91e40e7a275afb590d2832c81e0b8a"
+        }
+      ]
+    },
+    {
+      "name": "System_Threat_Forecaster",
+      "repo_url": "https://github.com/wsmaisys/System_Threat_Forecaster",
+      "description": null,
+      "primary_language": "Jupyter Notebook",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-04-20T16:07:44Z",
+      "updated_at": "2025-04-20T16:53:46Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "9775808",
+          "message": "updated readme",
+          "date": "2025-04-20T16:53:32Z",
+          "url": "https://github.com/wsmaisys/System_Threat_Forecaster/commit/9775808e1474991f197a3ab98ab251aa043b34f3"
+        },
+        {
+          "sha": "7c995ce",
+          "message": "Create LICENSE",
+          "date": "2025-04-20T16:40:45Z",
+          "url": "https://github.com/wsmaisys/System_Threat_Forecaster/commit/7c995ce597e8adec02d7f79bfde8dfe0797897b0"
+        },
+        {
+          "sha": "005e153",
+          "message": "Uploaded files",
+          "date": "2025-04-20T16:32:46Z",
+          "url": "https://github.com/wsmaisys/System_Threat_Forecaster/commit/005e153cdf986108be66bde78e3204a057c667c1"
+        }
+      ]
+    },
+    {
+      "name": "Automated_File_Handler",
+      "repo_url": "https://github.com/wsmaisys/Automated_File_Handler",
+      "description": null,
+      "primary_language": "Python",
+      "stars": 1,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-02-10T07:13:01Z",
+      "updated_at": "2025-04-20T16:02:18Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "ca72b16",
+          "message": "Update README.md",
+          "date": "2025-03-04T22:20:33Z",
+          "url": "https://github.com/wsmaisys/Automated_File_Handler/commit/ca72b1692a6d5fe179045336a3ca92d59f1f3475"
+        },
+        {
+          "sha": "c3fe64d",
+          "message": "Update README.md",
+          "date": "2025-02-13T20:22:37Z",
+          "url": "https://github.com/wsmaisys/Automated_File_Handler/commit/c3fe64d9306039b2d0a34621845184d3289fed9a"
+        },
+        {
+          "sha": "131d149",
+          "message": "Changes",
+          "date": "2025-02-13T19:46:44Z",
+          "url": "https://github.com/wsmaisys/Automated_File_Handler/commit/131d149479cf32353d69858f5287f2788540ff28"
+        },
+        {
+          "sha": "de088d9",
+          "message": "Updated dockerfile",
+          "date": "2025-02-13T19:32:31Z",
+          "url": "https://github.com/wsmaisys/Automated_File_Handler/commit/de088d9be9f3dd8da01c91f573451f7bc9b245b9"
+        },
+        {
+          "sha": "9ae39eb",
+          "message": "Improved Dockerfile",
+          "date": "2025-02-13T18:59:24Z",
+          "url": "https://github.com/wsmaisys/Automated_File_Handler/commit/9ae39eb185b30b3f9fd4946080dabc304026df02"
+        }
+      ]
+    },
+    {
+      "name": "Python-Codes",
+      "repo_url": "https://github.com/wsmaisys/Python-Codes",
+      "description": null,
+      "primary_language": "Python",
+      "stars": 0,
+      "forks": 0,
+      "topics": [],
+      "created_at": "2025-02-06T08:27:02Z",
+      "updated_at": "2025-02-06T09:06:53Z",
+      "deployed_urls": [],
+      "artifact_urls": [],
+      "recent_commits": [
+        {
+          "sha": "92c79d3",
+          "message": "Python Codes from local",
+          "date": "2025-01-20T18:02:49Z",
+          "url": "https://github.com/wsmaisys/Python-Codes/commit/92c79d34bb953b6f658a08bd55ddb69da92c3685"
+        }
+      ]
+    }
+  ],
+  "portfolio_current_links": [
+    {
+      "text": "Hire Me",
+      "url": "mailto:wsmaisys@gmail.com"
+    },
+    {
+      "text": "Get In Touch",
+      "url": "mailto:wsmaisys@gmail.com"
+    },
+    {
+      "text": "-> GitHub",
+      "url": "https://github.com/wsmaisys"
+    },
+    {
+      "text": "-> LinkedIn",
+      "url": "https://www.linkedin.com/in/wsmaisys"
+    },
+    {
+      "text": "-> Kaggle",
+      "url": "https://www.kaggle.com/wasimansari786"
+    },
+    {
+      "text": "-> Europass",
+      "url": "https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/wasim-ansari/ea4a1282-6678-4320-9ee3-b6cc224de660?view=html"
+    },
+    {
+      "text": "HyreFast Platform",
+      "url": "https://www.hyrefast.ai/"
+    },
+    {
+      "text": "Zovia Platform",
+      "url": "https://www.zovia.ai/"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://mediflow-ai-medical-assistant-785629432566.us-central1.run.app/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/MediFlow-Post-Discharge-Medical-AI-Assistant"
+    },
+    {
+      "text": "MCP Server",
+      "url": "https://nephrology-rag-mcp-tool-785629432566.us-central1.run.app/mcp"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/Nephrology-RAG-MCP-tool"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://pdf-excel-extractor-319169836562.us-central1.run.app/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/pdf-excel-extractor"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://docudroid-114168985695.us-central1.run.app/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/DocuDroid"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://flux-image-generator-bdcdcphnhmbhg6et.centralindia-01.azurewebsites.net/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/Flux-Image-Generator"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://rudebot-mistral.streamlit.app/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/RudeBot"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://huggingface.co/spaces/wassim-ansari2088/Face-Mask-Detector-Vision"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/FaceMask-Detection-CNNModel-VGG16"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://mogambo-calendar-assistant.onrender.com"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/mogambo-voice-ai-scheduler"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://jurisol-legal-assistant-rag.onrender.com"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/Jurisol-legal-assistant-RAG"
+    },
+    {
+      "text": "Docker",
+      "url": "https://hub.docker.com/r/wasimansariiitm/jurisol-legal-assistant"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://interview-prep-assistant.streamlit.app/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/Interview_Prep_Assistant"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://usedbike-price-predictor-mlmodel.onrender.com/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/usedbike_price_predictor_mlmodel"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://assignment-solving-agent.onrender.com/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/Assignment_Solving_Agent"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://blog-app-699175796072.asia-south2.run.app/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/google-cloud-app"
+    },
+    {
+      "text": "Live Demo",
+      "url": "https://text-similarity-detector.onrender.com/"
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/wsmaisys/Text_similarity_detection"
+    },
+    {
+      "text": "Kaggle Profile",
+      "url": "https://www.kaggle.com/wasimansari786"
+    },
+    {
+      "text": "Read on LinkedIn ->",
+      "url": "https://www.linkedin.com/pulse/hallucinations-ai-legal-research-lawyers-worst-nightmare-ansari-etkue/"
+    },
+    {
+      "text": "Read on Medium ->",
+      "url": "https://medium.com/@wsmaisys/adapting-export-strategies-for-indian-handmade-carpets-a-response-to-rising-global-tariffs-070a2796d762"
+    },
+    {
+      "text": "wsmaisys@gmail.com",
+      "url": "mailto:wsmaisys@gmail.com"
+    },
+    {
+      "text": "LinkedIn ->",
+      "url": "https://www.linkedin.com/in/wsmaisys"
+    },
+    {
+      "text": "GitHub ->",
+      "url": "https://github.com/wsmaisys"
+    },
+    {
+      "text": "Kaggle ->",
+      "url": "https://www.kaggle.com/wasimansari786"
+    }
+  ],
+  "external_profiles": {
+    "github": "https://github.com/wsmaisys",
+    "portfolio": "https://wsmaisys.github.io/waseemmansari.github.io/",
+    "linkedin": "https://www.linkedin.com/in/wsmaisys",
+    "kaggle": "https://www.kaggle.com/wasimansari786",
+    "europass": "https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/wasim-ansari/ea4a1282-6678-4320-9ee3-b6cc224de660?view=html",
+    "medium": "https://medium.com/@wsmaisys"
+  }
+}

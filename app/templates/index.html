@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI Resume Builder</title>
+    <link rel="stylesheet" href="/static/css/app.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace">
+        <aside class="panel">
+          <p class="eyebrow">Local AI Resume Builder</p>
+          <h1>Tailor a resume and cover letter to the job.</h1>
+          <form id="generate-form">
+            <div class="field-row">
+              <label>
+                Role
+                <input name="role_title" placeholder="Senior AI Engineer">
+              </label>
+              <label>
+                Company
+                <input name="company_name" placeholder="Acme AI">
+              </label>
+            </div>
+            <label>
+              Job Description
+              <textarea name="job_description" minlength="40" required placeholder="Paste the full JD here..."></textarea>
+            </label>
+            <label class="check">
+              <input type="checkbox" name="refresh_profile">
+              Refresh portfolio and GitHub profile first
+            </label>
+            <button type="submit">Generate Resume</button>
+          </form>
+        </aside>
+
+        <section class="results" id="results" hidden>
+          <div class="score-block">
+            <span>Match Score</span>
+            <strong id="score">--%</strong>
+          </div>
+          <div class="grid">
+            <article>
+              <h2>Matched Skills</h2>
+              <ul id="matched"></ul>
+            </article>
+            <article>
+              <h2>Missing Skills</h2>
+              <ul id="missing"></ul>
+            </article>
+          </div>
+          <article>
+            <h2>Agent Feedback</h2>
+            <ul id="feedback"></ul>
+          </article>
+          <div class="actions">
+            <a id="resume-link" href="#">Download Resume PDF</a>
+            <a id="cover-link" href="#">Download Cover Letter PDF</a>
+          </div>
+        </section>
+      </section>
+    </main>
+    <script src="/static/js/app.js"></script>
+  </body>
+</html>
+

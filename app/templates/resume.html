@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+      @page { size: A4; margin: 18mm 16mm; }
+      body { color: #18212f; font-family: Arial, sans-serif; font-size: 10.5pt; line-height: 1.42; }
+      h1, h2, h3, p { margin: 0; }
+      header { border-bottom: 2px solid #164e63; padding-bottom: 10px; margin-bottom: 14px; }
+      h1 { color: #0f172a; font-size: 24pt; letter-spacing: 0; }
+      .headline { color: #164e63; font-size: 12pt; margin-top: 3px; }
+      .contact { color: #475569; margin-top: 6px; }
+      section { margin-top: 13px; }
+      h2 { color: #164e63; font-size: 10pt; text-transform: uppercase; border-bottom: 1px solid #d9e2ea; padding-bottom: 3px; margin-bottom: 7px; }
+      ul { margin: 4px 0 0 17px; padding: 0; }
+      li { margin: 2px 0; }
+      .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+      .chip { border: 1px solid #c7d2da; border-radius: 4px; padding: 3px 6px; background: #f8fafc; }
+      .item { margin-bottom: 8px; }
+      .item-title { font-weight: 700; color: #0f172a; }
+      .meta { color: #64748b; font-size: 9.5pt; }
+      .score { float: right; color: #166534; font-weight: 700; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>{{ resume.candidate_name }}</h1>
+      <p class="headline">{{ resume.headline }}</p>
+      <p class="contact">
+        {% for key, value in resume.contact.items() %}{{ key|title }}: {{ value }}{% if not loop.last %} | {% endif %}{% endfor %}
+      </p>
+    </header>
+
+    <section>
+      <h2>Professional Summary <span class="score">ATS {{ evaluation.score }}%</span></h2>
+      <p>{{ resume.summary }}</p>
+    </section>
+
+    <section>
+      <h2>Core Skills</h2>
+      <div class="chips">
+        {% for skill in resume.core_skills %}
+        <span class="chip">{{ skill }}</span>
+        {% endfor %}
+      </div>
+    </section>
+
+    <section>
+      <h2>Selected Experience</h2>
+      {% for exp in resume.selected_experience %}
+      <div class="item">
+        <p class="item-title">{{ exp.role }}{% if exp.organization %} | {{ exp.organization }}{% endif %}</p>
+        {% if exp.period %}<p class="meta">{{ exp.period }}</p>{% endif %}
+        <ul>{% for point in exp.highlights %}<li>{{ point }}</li>{% endfor %}</ul>
+      </div>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>Relevant Projects</h2>
+      {% for project in resume.selected_projects %}
+      <div class="item">
+        <p class="item-title">{{ project.name }}</p>
+        <p>{{ project.summary }}</p>
+        {% if project.skills %}<p class="meta">{{ project.skills|join(", ") }}</p>{% endif %}
+      </div>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      {% for edu in resume.education %}
+      <p class="item"><strong>{{ edu.program }}</strong>{% if edu.institution %}, {{ edu.institution }}{% endif %}{% if edu.notes %} - {{ edu.notes }}{% endif %}</p>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>ATS Alignment</h2>
+      <p><strong>Matched:</strong> {{ evaluation.matched_skills|join(", ") }}</p>
+      <p><strong>Transparent gaps:</strong> {{ evaluation.missing_skills|join(", ") }}</p>
+    </section>
+  </body>
+</html>
+
