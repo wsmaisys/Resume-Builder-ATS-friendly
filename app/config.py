@@ -13,7 +13,7 @@ GENERATED_DIR = ROOT_DIR / "generated"
 
 class Settings(BaseModel):
     mistral_api_key: str | None = None
-    mistral_model: str = "mistral-large-latest"
+    mistral_model: str = "mistral-small-latest"
     github_token: str | None = None
     portfolio_url: str = "https://wsmaisys.github.io/waseemmansari.github.io/"
     github_username: str = "wsmaisys"
@@ -32,7 +32,7 @@ def get_settings() -> Settings:
         ),
         mistral_model=os.getenv("MISTRAL_MODEL")
         or file_values.get("MISTRAL_MODEL")
-        or "mistral-large-latest",
+        or "mistral-small-latest",
         github_token=os.getenv("GITHUB_TOKEN") or file_values.get("GITHUB_TOKEN"),
     )
 

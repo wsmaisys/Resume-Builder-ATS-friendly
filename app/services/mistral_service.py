@@ -11,7 +11,12 @@ class MistralService:
     def __init__(self) -> None:
         self.settings = get_settings()
 
-    async def complete_json(self, prompt: str) -> dict[str, Any] | None:
+    async def complete_json(
+        self,
+        prompt: str,
+        system_prompt: str | None = None,
+        temperature: float = 0.2,
+    ) -> dict[str, Any] | None:
         if not self.settings.mistral_api_key:
             return None
 
@@ -20,14 +25,14 @@ class MistralService:
             "messages": [
                 {
                     "role": "system",
-                    "content": (
+                    "content": system_prompt or (
                         "You are a precise resume intelligence agent. "
                         "Return only valid JSON. Do not wrap JSON in markdown."
                     ),
                 },
                 {"role": "user", "content": prompt},
             ],
-            "temperature": 0.2,
+            "temperature": temperature,
             "response_format": {"type": "json_object"},
         }
         headers = {
@@ -59,4 +64,3 @@ class MistralService:
                 return json.loads(match.group(0))
             except json.JSONDecodeError:
                 return None
-

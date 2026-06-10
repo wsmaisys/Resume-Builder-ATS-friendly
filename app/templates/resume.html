@@ -19,7 +19,9 @@
       .item { margin-bottom: 8px; }
       .item-title { font-weight: 700; color: #0f172a; }
       .meta { color: #64748b; font-size: 9.5pt; }
+      .link { color: #164e63; font-size: 8.8pt; overflow-wrap: anywhere; }
       .score { float: right; color: #166534; font-weight: 700; }
+      .note { color: #334155; font-size: 9.3pt; }
     </style>
   </head>
   <body>
@@ -62,7 +64,12 @@
       <div class="item">
         <p class="item-title">{{ project.name }}</p>
         <p>{{ project.summary }}</p>
+        {% if project.highlights %}
+        <ul>{% for point in project.highlights %}<li>{{ point }}</li>{% endfor %}</ul>
+        {% endif %}
         {% if project.skills %}<p class="meta">{{ project.skills|join(", ") }}</p>{% endif %}
+        {% if project.repo_url %}<p class="link">Repo: {{ project.repo_url }}</p>{% endif %}
+        {% if project.deployed_urls %}<p class="link">Live: {{ project.deployed_urls|join(" | ") }}</p>{% endif %}
       </div>
       {% endfor %}
     </section>
@@ -74,11 +81,5 @@
       {% endfor %}
     </section>
 
-    <section>
-      <h2>ATS Alignment</h2>
-      <p><strong>Matched:</strong> {{ evaluation.matched_skills|join(", ") }}</p>
-      <p><strong>Transparent gaps:</strong> {{ evaluation.missing_skills|join(", ") }}</p>
-    </section>
   </body>
 </html>
-

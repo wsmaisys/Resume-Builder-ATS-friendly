@@ -1,5 +1,5 @@
 from pathlib import Path
-from uuid import uuid4
+import re
 
 from fastapi import APIRouter, BackgroundTasks, HTTPException, Request
 from fastapi.responses import FileResponse, HTMLResponse
@@ -69,6 +69,7 @@ async def generate_documents(payload: GenerateRequest, background_tasks: Backgro
         profile=profile,
         resume=resume_strategy,
         jd_analysis=jd_analysis,
+        job_description=payload.job_description,
     )
     cover_letter = await cover_agent.write(
         profile=profile,
@@ -78,9 +79,9 @@ async def generate_documents(payload: GenerateRequest, background_tasks: Backgro
         role_title=payload.role_title,
     )
 
-    request_id = uuid4().hex[:12]
-    resume_filename = f"resume_{request_id}.pdf"
-    cover_filename = f"cover_letter_{request_id}.pdf"
+    company_slug = _company_slug(payload.company_name)
+    resume_filename = _unique_pdf_name(f"wasim_{company_slug}_resume.pdf")
+    cover_filename = _unique_pdf_name(f"wasim_{company_slug}_coverletter.pdf")
     resume_path = GENERATED_DIR / resume_filename
     cover_path = GENERATED_DIR / cover_filename
 
@@ -120,3 +121,24 @@ async def download(filename: str):
         raise HTTPException(status_code=404, detail="PDF not found.")
     return FileResponse(path, filename=filename, media_type="application/pdf")
 
+
+def _company_slug(company_name: str | None) -> str:
+    value = (company_name or "company").strip().lower()
+    value = re.sub(r"[^a-z0-9]+", "_", value)
+    value = re.sub(r"_+", "_", value).strip("_")
+    return value or "company"
+
+
+def _unique_pdf_name(filename: str) -> str:
+    path = GENERATED_DIR / filename
+    if not path.exists():
+        return filename
+
+    stem = path.stem
+    suffix = path.suffix
+    index = 2
+    while True:
+        candidate = f"{stem}_{index}{suffix}"
+        if not (GENERATED_DIR / candidate).exists():
+            return candidate
+        index += 1
